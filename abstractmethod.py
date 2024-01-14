@@ -5,4 +5,3 @@ class Thalaivan(ABC):
         pass
 class supervisor(Thalaivan):
     pass
-abc.
